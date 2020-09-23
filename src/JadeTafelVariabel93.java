@@ -1,8 +1,10 @@
 public class JadeTafelVariabel93 {
     public static void main(String[] args) {
-        /*
-        Tafel van 93 als een variabel.
-         */
+
+        // Tafel van 93 als variabel x.
+
+        System.out.println("Tafel van 93 als variabel x:");
+        System.out.println();
 
         int x = 93;
 

@@ -1,8 +1,11 @@
-public class JadeTafels8Letterlijk {
+public class JadeTafel8Letterlijk {
     public static void main(String[] args) {
-        /*
-        Tafels van 8 als letterlijke println codes geschreven.
-         */
+
+        // Tafel van 8 als letterlijke println codes geschreven.
+
+        System.out.println("Tafel van 8:");
+        System.out.println();
+
         System.out.println("1 x 8 = 8");
         System.out.println("2 x 8 = 16");
         System.out.println("3 x 8 = 24");
