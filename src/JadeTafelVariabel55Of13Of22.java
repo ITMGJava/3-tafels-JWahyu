@@ -50,7 +50,7 @@ public class JadeTafelVariabel55Of13Of22 {
 
         // Tafel van 22 als variabel d.
 
-        System.out.println("Tafel van 22 als variabel y:");
+        System.out.println("Tafel van 22 als variabel d:");
         System.out.println();
 
         int d = 22;
